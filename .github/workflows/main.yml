@@ -31,8 +31,8 @@ jobs:
         env:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
       - name: MSBuild
-        working-directory: CM.Customer.Database
-        run: msbuild CM.Customer.Database.sqlproj
+        working-directory: FS.ProjectDatabase
+        run: msbuild FS.ProjectDatabase.sqlproj
         env:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
       
