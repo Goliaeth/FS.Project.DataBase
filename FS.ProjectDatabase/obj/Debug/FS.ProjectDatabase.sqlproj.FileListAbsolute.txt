@@ -1,0 +1,10 @@
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\bin\Debug\FS.ProjectDatabase.dacpac
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\bin\Debug\FS.ProjectDatabase.dll
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\bin\Debug\FS.ProjectDatabase.pdb
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\obj\Debug\FS.ProjectDatabase.sqlproj.AssemblyReference.cache
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\obj\Debug\Model.xml
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\obj\Debug\refactor.xml
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\obj\Debug\postdeploy.sql
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\obj\Debug\predeploy.sql
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\obj\Debug\FS.ProjectDatabase.dll
+C:\Users\Nick\Desktop\ANKO\dotNET\FS.ProjectDatabase\FS.ProjectDatabase\obj\Debug\FS.ProjectDatabase.pdb
